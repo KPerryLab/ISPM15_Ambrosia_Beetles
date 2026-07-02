@@ -7,7 +7,7 @@ library(performance)
 library(see)
 
 #Data prep
-fungi.temp<-read.table(file="C:/Users/jessi/OneDrive - The Ohio State University/Ambrosia 2024-2025/Fungi/Spreadsheets_for_analysis/FungalAnalysisFull.csv", header=TRUE, sep=",")
+fungi.temp<-read.table(file="C:/Users/jessi/OneDrive - The Ohio State University/Ambrosia 2024-2025/Fungi/Spreadsheets_for_analysis/FungalPlateAnalysis_RawData.csv", header=TRUE, sep=",")
 fungi.temp$Species<-as.factor(fungi.temp$Species)
 fungi.temp$Area<-as.factor(fungi.temp$Area)
 str(fungi.temp)

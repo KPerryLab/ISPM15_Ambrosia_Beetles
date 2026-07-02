@@ -7,7 +7,7 @@ library(MASS)
 library(lmtest)
 
 #Uploading/subsetting
-logreg_crass<-read.csv(file="C:/Users/jessi/OneDrive - The Ohio State University/Ambrosia 2024-2025/Upper Lethal Limit Trials/Spreadsheets_for_analysis/Fulldataset.csv", header=TRUE, sep=",")
+logreg_crass<-read.csv(file="C:/Users/jessi/OneDrive - The Ohio State University/Ambrosia 2024-2025/Upper Lethal Limit Trials/Spreadsheets_for_analysis/GLMSurvival_RawData.csv", header=TRUE, sep=",")
 str(logreg_crass)
 summary(logreg_crass)
 logreg_crass$Species<-as.factor(logreg_crass$Species)
@@ -147,7 +147,7 @@ ld99_crass_larvae_maple
 #ULT germanus
 
 #Uploading/subsetting
-logreg_germanus<-read.csv(file="C:/Users/jessi/OneDrive - The Ohio State University/Ambrosia 2024-2025/Upper Lethal Limit Trials/Spreadsheets_for_analysis/Fulldataset.csv", header=TRUE, sep=",")
+logreg_germanus<-read.csv(file="C:/Users/jessi/OneDrive - The Ohio State University/Ambrosia 2024-2025/Upper Lethal Limit Trials/Spreadsheets_for_analysis/GLMSurvival_RawData.csv", header=TRUE, sep=",")
 str(logreg_germanus)
 summary(logreg_germanus)
 logreg_germanus$Species<-as.factor(logreg_germanus$Species)
@@ -288,7 +288,7 @@ ld99_germanus_larvae_maple
 #ULT maiche
 
 #Uploading/subsetting
-logreg_maiche<-read.csv(file="C:/Users/jessi/OneDrive - The Ohio State University/Ambrosia 2024-2025/Upper Lethal Limit Trials/Spreadsheets_for_analysis/Fulldataset.csv", header=TRUE, sep=",")
+logreg_maiche<-read.csv(file="C:/Users/jessi/OneDrive - The Ohio State University/Ambrosia 2024-2025/Upper Lethal Limit Trials/Spreadsheets_for_analysis/GLMSurvival_RawData.csv", header=TRUE, sep=",")
 str(logreg_maiche)
 summary(logreg_maiche)
 logreg_maiche$Species<-as.factor(logreg_maiche$Species)

@@ -5,7 +5,7 @@ library(performance)
 library(ggplot2)
 
 #Data prep
-bolts<-read.table(file="C:/Users/jessi/OneDrive - The Ohio State University/Ambrosia 2024-2025/Fungi/Spreadsheets_for_analysis/FungalBoltAnalysis.csv", header=TRUE, sep=",")
+bolts<-read.table(file="C:/Users/jessi/OneDrive - The Ohio State University/Ambrosia 2024-2025/Fungi/Spreadsheets_for_analysis/FungalBoltAnalysis_RawData.csv", header=TRUE, sep=",")
 
 bolts$Species<-as.factor(bolts$Species)
 str(bolts)
