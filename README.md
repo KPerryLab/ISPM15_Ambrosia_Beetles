@@ -1,6 +1,6 @@
-#ISPM15-Ambrosia-Beetles
-Repository for Jessi's masters research.
-Title: The thermal biology of ambrosia beetles and its implications for forest biosecurity                                                
+#ISPM15-Ambrosia-Beetles                                                                                                                  
+Repository for Jessi's masters research                                                                                                   
+Title: The thermal biology of ambrosia beetles and its implications for forest biosecurity                                               
 Correspondance: jessiraubenolt@gmail.com
 
 Summary: Data to determine the upper lethal temperatures of three species of ambrosia beetles using a heated water bath and thermocouples. Also testing the heat buffering effects of ambrosia beetle fungal symbionts during ISPM-15 heat treatments using thermal cameras, thermocouples, a gradually heated oven.
