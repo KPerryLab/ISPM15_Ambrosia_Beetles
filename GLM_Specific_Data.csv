@@ -1,0 +1,276 @@
+Date_collected,Host_species,Rep#,Temp,Couple#,Slot,Species,Lifestage,Survival_0min,Survival_1hr,Survival_4hr,Survival_24hr
+10/8/2024,Red Maple,13,45,5A,X1,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,13,46,2B,Z4,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,13,46,0B,Y3,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,13,47,2A,X4,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,13,47,1A,Z2,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,13,48,0A,X3,X. crassiusculus,Adult,0,0,0,0
+10/8/2024,Red Maple,13,48,4A,Z3,X. crassiusculus,Adult,0,0,0,0
+10/8/2024,Red Maple,13,49,1B,X2,X. crassiusculus,Adult,0,0,0,0
+10/8/2024,Red Maple,13,49,3A,Z1,X. crassiusculus,Adult,0,0,0,0
+10/8/2024,Red Maple,14,45,2B,X1,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,14,45,1B,X3,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,14,46,5A,Z2,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,14,46,2A,Z1,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,14,47,3A,Y3,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,14,47,0B,X2,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,14,48,0A,X4,X. crassiusculus,Adult,0,0,0,0
+10/8/2024,Red Maple,14,48,1A,Z3,X. crassiusculus,Adult,0,0,0,0
+10/8/2024,Red Maple,14,49,3B,Z4,X. crassiusculus,Adult,0,0,0,0
+10/8/2024,Red Maple,14,49,4A,Y2,X. crassiusculus,Adult,0,0,0,0
+10/8/2024,Red Maple,15,45,5A,Z4,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,15,45,2B,X3,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,15,46,1B,X4,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,15,46,3A,X2,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,15,47,1A,X1,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,15,47,0B,Y3,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,15,48,0A,Z1,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,15,48,4A,Z3,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,15,49,3B,Y2,X. crassiusculus,Adult,0,0,0,0
+10/8/2024,Red Maple,15,49,2A,Z2,X. crassiusculus,Adult,0,0,0,0
+10/8/2024,Red Maple,16,45,0B,X1,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,16,45,1B,X2,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,16,46,3B,Z1,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,16,46,5A,Z2,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,16,47,1A,Y2,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,16,47,2A,Y3,X. crassiusculus,Adult,1,1,1,1
+10/8/2024,Red Maple,16,48,0A,X3,X. crassiusculus,Adult,0,0,0,0
+10/8/2024,Red Maple,16,48,3A,Z3,X. crassiusculus,Adult,0,0,0,0
+10/8/2024,Red Maple,16,49,4A,Z5,X. crassiusculus,Adult,0,0,0,0
+10/8/2024,Red Maple,16,49,2B,X4,X. crassiusculus,Adult,0,0,0,0
+1/30/2025,Beech,21,45,3A,X3,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,21,45,5A,Y3,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,21,46,0A,Z3,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,21,46,1A,Z4,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,21,47,2A,Y2,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,21,47,4A,X2,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,21,48,2B,X4,X. crassiusculus,Adult,0,0,0,0
+1/30/2025,Beech,21,48,3B,Z1,X. crassiusculus,Adult,0,0,0,0
+1/30/2025,Beech,21,49,1B,Z2,X. crassiusculus,Adult,0,0,0,0
+1/30/2025,Beech,21,49,0B,X1,X. crassiusculus,Adult,0,0,0,0
+1/30/2025,Beech,22,45,0A,Z1,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,22,45,0B,X2,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,22,46,4A,X3,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,22,46,3A,Z3,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,22,47,1A,Y2,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,22,47,1B,Z2,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,22,48,2A,Z4,X. crassiusculus,Adult,0,0,0,0
+1/30/2025,Beech,22,48,3B,X4,X. crassiusculus,Adult,0,0,0,0
+1/30/2025,Beech,22,49,2B,Y3,X. crassiusculus,Adult,0,0,0,0
+1/30/2025,Beech,22,49,5A,X1,X. crassiusculus,Adult,0,0,0,0
+1/30/2025,Beech,23,45,1A,Y3,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,23,45,0A,X4,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,23,46,2B,Y2,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,23,46,2A,X3,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,23,47,1B,Z4,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,23,47,4A,Z1,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,23,48,0B,X2,X. crassiusculus,Adult,0,0,0,0
+1/30/2025,Beech,23,48,5A,X1,X. crassiusculus,Adult,1,1,1,0
+1/30/2025,Beech,23,49,3A,Z3,X. crassiusculus,Adult,0,0,0,0
+1/30/2025,Beech,23,49,3B,Z2,X. crassiusculus,Adult,0,0,0,0
+1/30/2025,Beech,24,45,3A,Y3,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,24,45,4A,X4,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,24,46,5A,X1,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,24,46,0B,X2,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,24,47,2A,X3,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,24,47,0A,Z3,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,24,48,3B,Y2,X. crassiusculus,Adult,1,1,1,1
+1/30/2025,Beech,24,48,1A,Z1,X. crassiusculus,Adult,0,0,0,0
+1/30/2025,Beech,24,49,2B,Z2,X. crassiusculus,Adult,0,0,0,0
+1/30/2025,Beech,24,49,1B,Z4,X. crassiusculus,Adult,0,0,0,0
+5/8/2025,Red Maple,29,45,5A,X1,X. crassiusculus,Larvae,1,1,1,1
+5/8/2025,Red Maple,29,45,2B,X4,X. crassiusculus,Larvae,1,1,1,1
+5/8/2025,Red Maple,29,46,1A,X3,X. crassiusculus,Larvae,1,1,1,1
+5/8/2025,Red Maple,29,46,2A,Z2,X. crassiusculus,Larvae,1,1,1,1
+5/8/2025,Red Maple,29,47,4A,Z1,X. crassiusculus,Larvae,0,1,1,1
+5/8/2025,Red Maple,29,47,0B,Y3,X. crassiusculus,Larvae,0,1,1,1
+5/8/2025,Red Maple,29,48,3B,Y2,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,29,48,0A,Z3,X. crassiusculus,Larvae,0,0,1,1
+5/8/2025,Red Maple,29,49,1B,Z4,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,29,49,3A,X2,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,30,45,0A,Z1,X. crassiusculus,Larvae,1,1,1,1
+5/8/2025,Red Maple,30,45,0B,X2,X. crassiusculus,Larvae,1,1,1,1
+5/8/2025,Red Maple,30,46,4A,X3,X. crassiusculus,Larvae,1,1,1,1
+5/8/2025,Red Maple,30,46,3A,Z3,X. crassiusculus,Larvae,1,1,1,1
+5/8/2025,Red Maple,30,47,1A,Y2,X. crassiusculus,Larvae,0,1,1,1
+5/8/2025,Red Maple,30,47,1B,Z2,X. crassiusculus,Larvae,0,0,1,1
+5/8/2025,Red Maple,30,48,2A,Z4,X. crassiusculus,Larvae,0,0,0,1
+5/8/2025,Red Maple,30,48,3B,X4,X. crassiusculus,Larvae,0,0,1,1
+5/8/2025,Red Maple,30,49,2B,Y3,X. crassiusculus,Larvae,0,0,0,1
+5/8/2025,Red Maple,30,49,5A,X1,X. crassiusculus,Larvae,0,0,0,1
+5/8/2025,Red Maple,31,51,1A,Y3,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,31,51,0A,X4,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,31,52,2B,Y2,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,31,52,2A,X3,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,31,53,1B,Z4,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,31,53,4A,Z1,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,31,54,0B,X2,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,31,54,5A,X1,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,32,51,3A,Y3,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,32,51,4A,X4,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,32,52,5A,X1,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,32,52,0B,X2,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,32,53,2A,X3,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,32,53,0A,Z3,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,32,54,3B,Y2,X. crassiusculus,Larvae,0,0,0,0
+5/8/2025,Red Maple,32,54,1A,Z1,X. crassiusculus,Larvae,0,0,0,0
+7/1/2026,Red Maple,61,45,3A,Z1,X. germanus,Adult,0,0,1,1
+7/1/2026,Red Maple,61,45,2B,X2,X. germanus,Adult,0,1,1,1
+7/1/2026,Red Maple,61,46,4A,Y3,X. germanus,Adult,0,0,0,1
+7/1/2026,Red Maple,61,46,2A,X3,X. germanus,Adult,0,0,0,1
+7/1/2026,Red Maple,61,47,3B,X1,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,61,47,1A,Z3,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,61,48,0A,Z4,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,61,48,5A,X4,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,61,49,1B,Y2,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,61,49,0B,Z2,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,62,45,0B,Z3,X. germanus,Adult,0,0,1,1
+7/1/2026,Red Maple,62,45,3A,X1,X. germanus,Adult,0,0,1,1
+7/1/2026,Red Maple,62,46,1B,Z1,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,62,46,2B,Y2,X. germanus,Adult,0,0,0,1
+7/1/2026,Red Maple,62,47,2A,X2,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,62,47,3B,Z4,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,62,48,5A,X3,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,62,48,1A,X4,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,62,49,4A,Y3,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,62,49,0A,Z2,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,63,45,3A,X2,X. germanus,Adult,0,1,1,1
+7/1/2026,Red Maple,63,45,5A,X4,X. germanus,Adult,0,0,1,1
+7/1/2026,Red Maple,63,46,4A,Y2,X. germanus,Adult,0,0,0,1
+7/1/2026,Red Maple,63,46,0A,X3,X. germanus,Adult,0,0,0,1
+7/1/2026,Red Maple,63,47,3B,X1,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,63,47,1B,Z3,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,63,48,1A,Z2,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,63,48,2B,Z4,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,63,49,0B,Y3,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,63,49,2A,Z1,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,64,45,2A,Z2,X. germanus,Adult,0,0,1,1
+7/1/2026,Red Maple,64,45,0B,Z1,X. germanus,Adult,0,0,1,1
+7/1/2026,Red Maple,64,46,4A,Y2,X. germanus,Adult,0,0,0,1
+7/1/2026,Red Maple,64,46,1A,Z4,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,64,47,0A,X2,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,64,47,3A,X3,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,64,48,3B,Z3,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,64,48,2B,Y3,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,64,49,1B,X4,X. germanus,Adult,0,0,0,0
+7/1/2026,Red Maple,64,49,5A,X1,X. germanus,Adult,0,0,0,0
+6/1/2026,Beech,65,45,3B,X2,X. germanus,Adult,0,0,1,1
+6/1/2026,Beech,65,45,4A,Z2,X. germanus,Adult,0,0,1,1
+6/1/2026,Beech,65,46,0A,X1,X. germanus,Adult,0,0,0,0
+6/1/2026,Beech,65,46,0B,Y2,X. germanus,Adult,0,0,0,0
+6/1/2026,Beech,65,47,5A,Z4,X. germanus,Adult,0,0,0,0
+6/1/2026,Beech,65,47,3A,Z1,X. germanus,Adult,0,0,0,0
+6/1/2026,Beech,65,48,1A,X3,X. germanus,Adult,0,0,0,0
+6/1/2026,Beech,65,48,2A,X4,X. germanus,Adult,0,0,0,0
+6/1/2026,Beech,65,49,2B,Y3,X. germanus,Adult,0,0,0,0
+6/1/2026,Beech,65,49,1B,Z3,X. germanus,Adult,0,0,0,0
+6/1/2026,Beech,66,45,1A,Y2,X. germanus,Adult,0,0,1,1
+6/1/2026,Beech,66,45,0B,Y3,X. germanus,Adult,0,0,1,1
+6/1/2026,Beech,66,46,2A,Z1,X. germanus,Adult,0,0,0,0
+6/1/2026,Beech,66,46,3B,Z2,X. germanus,Adult,0,0,0,0
+6/1/2026,Beech,66,47,1B,X1,X. germanus,Adult,0,0,0,0
+6/1/2026,Beech,66,47,5A,Z4,X. germanus,Adult,0,0,0,0
+6/1/2026,Beech,66,48,0A,X4,X. germanus,Adult,0,0,0,0
+6/1/2026,Beech,66,48,4A,X2,X. germanus,Adult,0,0,0,0
+6/1/2026,Beech,66,49,3A,X3,X. germanus,Adult,0,0,0,0
+6/1/2026,Beech,66,49,2B,Z3,X. germanus,Adult,0,0,0,0
+6/2/2026,Beech,67,45,5A,X1,X. germanus,Adult,0,0,1,1
+6/2/2026,Beech,67,45,0A,X2,X. germanus,Adult,0,0,1,1
+6/2/2026,Beech,67,46,3B,Y3,X. germanus,Adult,0,0,0,1
+6/2/2026,Beech,67,46,2A,Z2,X. germanus,Adult,0,0,0,1
+6/2/2026,Beech,67,47,1A,Z4,X. germanus,Adult,0,0,0,0
+6/2/2026,Beech,67,47,0B,Y2,X. germanus,Adult,0,0,0,0
+6/2/2026,Beech,67,48,3A,Z3,X. germanus,Adult,0,0,0,0
+6/2/2026,Beech,67,48,4A,X4,X. germanus,Adult,0,0,0,0
+6/2/2026,Beech,67,49,2B,Z1,X. germanus,Adult,0,0,0,0
+6/2/2026,Beech,67,49,1B,X3,X. germanus,Adult,0,0,0,0
+6/2/2026,Beech,68,45,2A,Z1,X. germanus,Adult,0,0,0,1
+6/2/2026,Beech,68,45,5A,Z3,X. germanus,Adult,0,0,1,1
+6/2/2026,Beech,68,46,1B,X1,X. germanus,Adult,0,0,0,1
+6/2/2026,Beech,68,46,3B,X3,X. germanus,Adult,0,0,0,1
+6/2/2026,Beech,68,47,2B,Z4,X. germanus,Adult,0,0,0,0
+6/2/2026,Beech,68,47,4A,X4,X. germanus,Adult,0,0,0,0
+6/2/2026,Beech,68,48,3A,Y3,X. germanus,Adult,0,0,0,0
+6/2/2026,Beech,68,48,0A,X2,X. germanus,Adult,0,0,0,0
+6/2/2026,Beech,68,49,1A,Y2,X. germanus,Adult,0,0,0,0
+6/2/2026,Beech,68,49,0B,Z2,X. germanus,Adult,0,0,0,0
+6/24/2026,Beech,73,45,5A,X1,A. maiche,Adult,0,1,1,1
+6/24/2026,Beech,73,45,2B,X4,A. maiche,Adult,1,1,1,1
+6/24/2026,Beech,73,46,1A,X3,A. maiche,Adult,0,1,0,0
+6/24/2026,Beech,73,46,2A,Z2,A. maiche,Adult,0,1,1,1
+6/24/2026,Beech,73,47,4A,Z1,A. maiche,Adult,0,0,1,1
+6/24/2026,Beech,73,47,0B,Y3,A. maiche,Adult,0,0,1,1
+6/24/2026,Beech,73,48,3B,Y2,A. maiche,Adult,0,0,0,0
+6/24/2026,Beech,73,48,0A,Z3,A. maiche,Adult,0,0,0,0
+6/24/2026,Beech,73,49,1B,Z4,A. maiche,Adult,0,0,0,0
+6/24/2026,Beech,73,49,3A,X2,A. maiche,Adult,0,0,0,0
+6/24/2026,Beech,74,45,0A,Z1,A. maiche,Adult,1,1,1,1
+6/24/2026,Beech,74,45,0B,X2,A. maiche,Adult,1,1,1,1
+6/24/2026,Beech,74,46,4A,X3,A. maiche,Adult,0,1,1,1
+6/24/2026,Beech,74,46,3A,Z3,A. maiche,Adult,0,1,1,1
+6/24/2026,Beech,74,47,1A,Y2,A. maiche,Adult,0,0,1,1
+6/24/2026,Beech,74,47,1B,Z2,A. maiche,Adult,0,0,1,1
+6/24/2026,Beech,74,48,2A,Z4,A. maiche,Adult,0,0,1,1
+6/24/2026,Beech,74,48,3B,X4,A. maiche,Adult,0,0,1,1
+6/24/2026,Beech,74,49,2B,Y3,A. maiche,Adult,0,0,0,0
+6/24/2026,Beech,74,49,5A,X1,A. maiche,Adult,0,0,0,0
+6/24/2026,Beech,75,45,1A,Y3,A. maiche,Adult,1,1,1,1
+6/24/2026,Beech,75,45,0A,X4,A. maiche,Adult,1,1,1,1
+6/24/2026,Beech,75,46,2B,Y2,A. maiche,Adult,0,1,1,1
+6/24/2026,Beech,75,46,2A,X3,A. maiche,Adult,0,1,1,1
+6/24/2026,Beech,75,47,1B,Z4,A. maiche,Adult,0,0,1,1
+6/24/2026,Beech,75,47,4A,Z1,A. maiche,Adult,0,0,1,1
+6/24/2026,Beech,75,48,0B,X2,A. maiche,Adult,0,0,0,0
+6/24/2026,Beech,75,48,5A,X1,A. maiche,Adult,0,0,0,0
+6/24/2026,Beech,75,49,3A,Z3,A. maiche,Adult,0,0,0,0
+6/24/2026,Beech,75,49,3B,Z2,A. maiche,Adult,0,0,0,0
+6/24/2026,Beech,76,45,3A,Y3,A. maiche,Adult,1,1,1,1
+6/24/2026,Beech,76,45,4A,X4,A. maiche,Adult,1,1,1,1
+6/24/2026,Beech,76,46,5A,X1,A. maiche,Adult,0,1,1,1
+6/24/2026,Beech,76,46,0B,X2,A. maiche,Adult,0,1,1,1
+6/24/2026,Beech,76,47,2A,X3,A. maiche,Adult,0,0,1,1
+6/24/2026,Beech,76,47,0A,Z3,A. maiche,Adult,0,0,1,1
+6/24/2026,Beech,76,48,3B,Y2,A. maiche,Adult,0,0,0,0
+6/24/2026,Beech,76,48,1A,Z1,A. maiche,Adult,0,0,0,0
+6/24/2026,Beech,76,49,2B,Z2,A. maiche,Adult,0,0,0,0
+6/24/2026,Beech,76,49,1B,Z4,A. maiche,Adult,0,0,0,0
+6/25/2026,Red Maple,77,45,5A,X1,A. maiche,Adult,0,1,1,1
+6/25/2026,Red Maple,77,45,2B,X4,A. maiche,Adult,1,1,1,1
+6/25/2026,Red Maple,77,46,1A,X3,A. maiche,Adult,1,1,1,1
+6/25/2026,Red Maple,77,46,2A,Z2,A. maiche,Adult,1,1,1,1
+6/25/2026,Red Maple,77,47,4A,Z1,A. maiche,Adult,0,1,1,1
+6/25/2026,Red Maple,77,47,0B,Y3,A. maiche,Adult,0,0,1,1
+6/25/2026,Red Maple,77,48,3B,Y2,A. maiche,Adult,0,0,0,1
+6/25/2026,Red Maple,77,48,0A,Z3,A. maiche,Adult,0,0,0,0
+6/25/2026,Red Maple,77,49,1B,Z4,A. maiche,Adult,0,0,0,0
+6/25/2026,Red Maple,77,49,3A,X2,A. maiche,Adult,0,0,0,0
+6/25/2026,Red Maple,78,45,0A,Z1,A. maiche,Adult,1,1,1,1
+6/25/2026,Red Maple,78,45,0B,X2,A. maiche,Adult,1,1,1,1
+6/25/2026,Red Maple,78,46,4A,X3,A. maiche,Adult,0,1,1,1
+6/25/2026,Red Maple,78,46,3A,Z3,A. maiche,Adult,0,1,1,1
+6/25/2026,Red Maple,78,47,1A,Y2,A. maiche,Adult,0,0,1,1
+6/25/2026,Red Maple,78,47,1B,Z2,A. maiche,Adult,0,0,1,1
+6/25/2026,Red Maple,78,48,2A,Z4,A. maiche,Adult,0,0,0,0
+6/25/2026,Red Maple,78,48,3B,X4,A. maiche,Adult,0,0,0,1
+6/25/2026,Red Maple,78,49,2B,Y3,A. maiche,Adult,0,0,0,0
+6/25/2026,Red Maple,78,49,5A,X1,A. maiche,Adult,0,0,0,0
+6/25/2026,Red Maple,79,45,1A,Y3,A. maiche,Adult,1,1,1,1
+6/25/2026,Red Maple,79,45,0A,X4,A. maiche,Adult,1,1,1,1
+6/25/2026,Red Maple,79,46,2B,Y2,A. maiche,Adult,1,1,1,1
+6/25/2026,Red Maple,79,46,2A,X3,A. maiche,Adult,0,1,1,1
+6/25/2026,Red Maple,79,47,1B,Z4,A. maiche,Adult,0,1,1,1
+6/25/2026,Red Maple,79,47,4A,Z1,A. maiche,Adult,0,0,1,1
+6/25/2026,Red Maple,79,48,0B,X2,A. maiche,Adult,0,0,0,0
+6/25/2026,Red Maple,79,48,5A,X1,A. maiche,Adult,0,0,0,0
+6/25/2026,Red Maple,79,49,3A,Z3,A. maiche,Adult,0,0,0,0
+6/25/2026,Red Maple,79,49,3B,Z2,A. maiche,Adult,0,0,0,0
+6/25/2026,Red Maple,80,45,3A,Y3,A. maiche,Adult,0,1,1,1
+6/25/2026,Red Maple,80,45,4A,X4,A. maiche,Adult,1,1,1,1
+6/25/2026,Red Maple,80,46,5A,X1,A. maiche,Adult,0,1,1,1
+6/25/2026,Red Maple,80,46,0B,X2,A. maiche,Adult,0,1,1,1
+6/25/2026,Red Maple,80,47,2A,X3,A. maiche,Adult,0,0,1,1
+6/25/2026,Red Maple,80,47,0A,Z3,A. maiche,Adult,0,0,1,1
+6/25/2026,Red Maple,80,48,3B,Y2,A. maiche,Adult,0,0,0,0
+6/25/2026,Red Maple,80,48,1A,Z1,A. maiche,Adult,0,0,0,0
+6/25/2026,Red Maple,80,49,2B,Z2,A. maiche,Adult,0,0,0,0
+6/25/2026,Red Maple,80,49,1B,Z4,A. maiche,Adult,0,0,0,0
