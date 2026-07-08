@@ -9,15 +9,16 @@ bolts<-read.table(file="C:/Users/jessi/OneDrive - The Ohio State University/Ambr
 
 bolts$Species<-as.factor(bolts$Species)
 str(bolts)
+boltsmodel<-lmer(Recorded ~ Diameter.cm + Temp*Species + (1+Temp*Species|Number), data=bolts)
 
 #Model and checking assumptions
-bolts_model<-lmer(Recorded~Species*Temp +(1|Diameter.cm), data = bolts)
-check_model(bolts_model, check=c("linearity","homogeneity","normality","collinearity"))
+boltsmodel<-lmer(Recorded ~ Diameter.cm + Temp*Species + (1+Temp*Species|Number), data=bolts)
+check_model(boltsmodel, check=c("linearity","homogeneity","normality","collinearity"))
 
 #Analysis
-anova(bolts_model, type=3)
-summary(bolts_model)
-bolts_emm<-emmeans(bolts_model, ~ Species*Temp)
+anova(boltsmodel, type=3)
+summary(boltsmodel)
+bolts_emm<-emmeans(boltsmodel, ~Diameter.cm+Temp*Species)
 pairs(bolts_emm)
 
 #Graphing
